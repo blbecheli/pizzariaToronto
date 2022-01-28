@@ -1,0 +1,30 @@
+.float {
+    right: 25px;
+    position: fixed;
+    width: 70px;
+    height: 70px;
+    bottom: 40px;
+    text-align: center;
+    z-index: 100;
+}
+
+#msg1 {
+    background: #fff;
+    color: #000;
+    position: fixed;
+    width: 100px;
+    bottom: 55px;
+    right: 90px;
+    font-size: 12px;
+    line-height: 13px;
+    padding: 3px;
+    border-radius: 10px;
+    border: 1px solid #e2e2e2;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+
+.whatsapp {
+    width: 80px;
+    height: 80px;
+}
